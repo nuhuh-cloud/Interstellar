@@ -3,7 +3,10 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     interstellar: "password",
+    npm i
+    config=true npm start
+
+npm run start
   },
 };
-config=true npm start
 export default config;
